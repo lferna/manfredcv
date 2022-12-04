@@ -1,0 +1,90 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Luis",
+      "surnames": "Fernandez",
+      "title": "Software Architect | Quarkus",
+      "description": "- Working as a Tech Lead in multiple clients with different technologies. Currently working with a Retail and Distribution spanish client.\n- Developing Spring Boot APIs that implement a distribution billing platform which serve hundreds of thousands of users, with response times in milliseconds and with special care for transactions.\n- Integrating new third-party APIs (from Whatsapp Business API to proprietary software) with our applications to be able to create more content and serve new customers.\n- Using Quarkus, a Knative Java stack, to save memory and shorten microservices startup times, saving costs and improving horizontal scalability, serving hundreds of requests per second in comparison with a Jboss legacy application without the ability to scale that only serves a few requests per second.\n- Developing Quarkus extensions for all the teams to use them.\n- 2.6.0 of Quarkus. Experience in developing Quarkus extensions.\n- English: Currently learning C1 (B2 Certification)\n- Google Cloud Professional Architect Certificate:\nhttps://cutt.ly/LgkoPkH\n- Talk at University (Universidad de Oviedo) about microservices (and why we shouldn’t use it every time). In spanish language: https://youtu.be/dq7568Sjt1Q\n- Talk at Quarkus Insights Episode 89 with the Red Hat Quarkus Engineer Team about our experience using Quarkus in native mode: https://youtu.be/mudqwT6l0Co\n- Talk at Employment Forum (Foro de Empleo) about microservices (How to create a map of microservices)",
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Nov 2015 - Present "
+        },
+        "roles": [
+          {
+            "name": "Software Architect",
+            "startDate": "2022-12-04",
+            "challenges": [
+              {
+                "description": "Software Architect"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Nov 2006 - Nov 2015 "
+        },
+        "roles": [
+          {
+            "name": "Senior Software Developer",
+            "startDate": "2022-12-04",
+            "challenges": [
+              {
+                "description": "Senior Software Developer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "16 yrs 2 mos"
+        },
+        "roles": [
+          {
+            "name": "Capgemini",
+            "startDate": "2015-11-01",
+            "challenges": [
+              {
+                "description": "Software Architect"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CITIPA - Colegio Oficial Graduados en Ingeniería Informática e Ingenieros Técnicos de Asturias"
+        },
+        "roles": [
+          {
+            "name": "Secretario",
+            "startDate": "2015-02-01",
+            "finishDate": "2019-03-31",
+            "challenges": [
+              {
+                "description": "Secretaría organizativa del Colegio"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "status": "searchingActively"
+  }
+}

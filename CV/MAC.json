@@ -19,6 +19,10 @@
     },
     "relevantLinks": [
       {
+        "type": "github",
+        "URL": "Https://github.com/lferna"
+      },
+      {
         "type": "linkedin",
         "URL": "Https://www.linkedin.com/in/lferna"
       }

@@ -146,6 +146,12 @@
         }
       ]
     },
+    "preferences": {
+      "preferredRoles": [
+        "Software Architect",
+        "Tech Lead"
+      ]
+    },
     "status": "searchingActively"
   }
 }

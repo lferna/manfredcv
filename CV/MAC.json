@@ -147,6 +147,18 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Quarkus",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Software Architect",
         "Tech Lead"

@@ -101,6 +101,18 @@
       }
     ]
   },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [

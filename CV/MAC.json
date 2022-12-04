@@ -25,6 +25,10 @@
       {
         "type": "linkedin",
         "URL": "Https://www.linkedin.com/in/lferna"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/3305708/luisao"
       }
     ]
   },
@@ -103,6 +107,10 @@
         {
           "type": "linkedin",
           "URL": "Https://www.linkedin.com/in/lferna"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/3305708/luisao"
         }
       ]
     },

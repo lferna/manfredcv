@@ -115,6 +115,18 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Quarkus",
           "type": "technology"
         }

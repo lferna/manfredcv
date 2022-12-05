@@ -95,7 +95,12 @@
       },
       {
         "organization": {
-          "name": "CITIPA - Colegio Oficial Graduados en Ingeniería Informática e Ingenieros Técnicos de Asturias"
+          "name": "CITIPA - Colegio Oficial Graduados en Ingeniería Informática e Ingenieros Técnicos de Asturias",
+          "image": {
+            "alt": "CITIPA_Logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/d884be2c-0d7e-4dc9-bf48-e8fd8e2d13e0_citipa_logo.png"
+          },
+          "URL": "https://www.citipa.org"
         },
         "roles": [
           {

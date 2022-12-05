@@ -39,7 +39,12 @@
     "jobs": [
       {
         "organization": {
-          "name": "Nov 2015 - Present "
+          "name": "Nov 2015 - Present ",
+          "image": {
+            "alt": "Capgemini.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/dceab256-2cc8-4e07-baed-076117f17937_capgemini.png"
+          },
+          "URL": "https://www.capgemini.com"
         },
         "roles": [
           {
@@ -48,6 +53,20 @@
             "challenges": [
               {
                 "description": "Software Architect"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Quarkus",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
               }
             ]
           }

@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Principado de Asturias",
-        "municipality": "Oviedo",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Oviedo"
       }
     },
     "relevantLinks": [
@@ -72,12 +71,17 @@
       },
       {
         "organization": {
-          "name": "16 yrs 2 mos"
+          "name": "16 yrs 2 mos",
+          "image": {
+            "alt": "Capgemini.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/62e6d8ea-94ef-4fa9-870a-67ee4c12bd3c_capgemini.png"
+          },
+          "URL": "https://www.capgemini.com"
         },
         "roles": [
           {
             "name": "Capgemini",
-            "startDate": "2015-11-01",
+            "startDate": "2006-11-01",
             "challenges": [
               {
                 "description": "Software Architect"
@@ -108,12 +112,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -190,7 +192,6 @@
         "Software Architect",
         "Tech Lead"
       ]
-    },
-    "status": "notAvailable"
+    }
   }
 }

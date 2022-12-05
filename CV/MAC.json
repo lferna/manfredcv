@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Principado de Asturias",
-        "municipality": "Oviedo",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Oviedo"
       }
     },
     "relevantLinks": [
@@ -108,12 +107,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -134,6 +131,29 @@
           "name": "Quarkus",
           "type": "technology"
         }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Google Cloud Certified Professional Cloud Architect",
+        "startDate": "2020-09-01",
+        "finishDate": "2024-09-01",
+        "institution": {
+          "name": "Google Cloud",
+          "URL": "https://www.credential.net/5baa1c7e-1ed1-4e8b-b0c4-46a5f685e05b",
+          "image": {
+            "alt": "google_cloud.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/03303e11-f805-4139-8c48-25c0b7e4b02a_google_cloud.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Google Cloud",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
@@ -167,7 +187,6 @@
         "Software Architect",
         "Tech Lead"
       ]
-    },
-    "status": "notAvailable"
+    }
   }
 }

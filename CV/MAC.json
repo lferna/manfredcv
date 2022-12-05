@@ -74,22 +74,6 @@
       },
       {
         "organization": {
-          "name": "Nov 2006 - Nov 2015 "
-        },
-        "roles": [
-          {
-            "name": "Senior Software Developer",
-            "startDate": "2022-12-04",
-            "challenges": [
-              {
-                "description": "Senior Software Developer"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "16 yrs 2 mos",
           "image": {
             "alt": "Capgemini.png",
@@ -121,6 +105,38 @@
             "challenges": [
               {
                 "description": "Secretaría organizativa del Colegio"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Nov 2006 - Nov 2015 ",
+          "image": {
+            "alt": "Capgemini.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/cd40489d-cded-496d-9972-8611a74e4622_capgemini.png"
+          },
+          "URL": "https://www.capgemini.com"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Developer",
+            "startDate": "2006-11-01",
+            "finishDate": "2015-11-01",
+            "challenges": [
+              {
+                "description": "Senior Software Developer"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
               }
             ]
           }

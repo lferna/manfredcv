@@ -147,6 +147,27 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Quarkus Insights #89: Capgemini’s Road to Quarkus",
+          "description": "Quarkus Insights #89: Capgemini’s Road to Quarkus.\nTalk about Quarkus and our experience with Red Hat Engineering Team",
+          "URL": "https://www.youtube.com/watch?v=mudqwT6l0Co",
+          "image": {
+            "alt": "1652117410920.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/ab7361a7-cf05-4ebd-b924-8d61cf0607a7_1652117410920.jpg"
+          }
+        },
+        "type": "video",
+        "publishingDate": "2022-09-01",
+        "relatedCompetences": [
+          {
+            "name": "Quarkus",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {

@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Principado de Asturias",
-        "municipality": "Oviedo",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Oviedo"
       }
     },
     "relevantLinks": [
@@ -171,6 +170,25 @@
       },
       {
         "details": {
+          "name": "Gobierno de microservicios",
+          "description": "Charla en el Foro de Empleo de la Universidad de Oviedo sobre cómo crear un gobierno para los microservicios de una organización.",
+          "URL": "https://www.capgemini.com/es-es/events/18o-foro-de-empleo-de-la-universidad-de-oviedo/",
+          "image": {
+            "alt": "Cartel Foro de Empleo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/5df566b7-fae7-40d5-a819-bd91f9282bb4_cartel-foro-de-emple.png"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2019-03-01",
+        "relatedCompetences": [
+          {
+            "name": "Spring Boot",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Arquitectura de software basada en Microservicios",
           "description": "Arquitectura de software basada en Microservicios. Charla realizada en la Escuela de Ingeniería de Informática de Oviedo dentro de la asignatura \"Arquitectura de Software\"",
           "URL": "https://www.youtube.com/watch?v=dq7568Sjt1Q",
@@ -193,12 +211,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -275,7 +291,6 @@
         "Software Architect",
         "Tech Lead"
       ]
-    },
-    "status": "notAvailable"
+    }
   }
 }

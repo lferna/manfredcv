@@ -167,6 +167,25 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Arquitectura de software basada en Microservicios",
+          "description": "Arquitectura de software basada en Microservicios. Charla realizada en la Escuela de Ingeniería de Informática de Oviedo dentro de la asignatura \"Arquitectura de Software\"",
+          "URL": "https://www.youtube.com/watch?v=dq7568Sjt1Q",
+          "image": {
+            "alt": "K9MIZkmc_400x400.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/215d63b6-429d-4342-9b6a-eabd469fc087_k9mizkmc_400x400.jpg"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2018-03-01",
+        "relatedCompetences": [
+          {
+            "name": "Spring Boot",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },

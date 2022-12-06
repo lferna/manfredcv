@@ -39,7 +39,7 @@
     "jobs": [
       {
         "organization": {
-          "name": "Nov 2015 - Present ",
+          "name": "Capgemini",
           "image": {
             "alt": "Capgemini.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/dceab256-2cc8-4e07-baed-076117f17937_capgemini.png"
@@ -49,7 +49,7 @@
         "roles": [
           {
             "name": "Software Architect",
-            "startDate": "2022-12-04",
+            "startDate": "2015-11-01",
             "challenges": [
               {
                 "description": "Software Architect"

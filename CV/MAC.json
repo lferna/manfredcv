@@ -74,27 +74,6 @@
       },
       {
         "organization": {
-          "name": "16 yrs 2 mos",
-          "image": {
-            "alt": "Capgemini.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/62e6d8ea-94ef-4fa9-870a-67ee4c12bd3c_capgemini.png"
-          },
-          "URL": "https://www.capgemini.com"
-        },
-        "roles": [
-          {
-            "name": "Capgemini",
-            "startDate": "2006-11-01",
-            "challenges": [
-              {
-                "description": "Software Architect"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "CITIPA - Colegio Oficial Graduados en Ingeniería Informática e Ingenieros Técnicos de Asturias",
           "image": {
             "alt": "CITIPA_Logo.png",

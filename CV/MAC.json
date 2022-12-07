@@ -127,6 +127,27 @@
         ]
       }
     ],
+    "projects": [
+      {
+        "details": {
+          "name": "Organizador BetaBeers Asturias",
+          "description": "Evento mensual para desarrolladores web y apps en Asturias.\n\nFormato del evento:\n- Charla sobre desarrollo.\n- Presentación de startups, como están hechas por detrás.\n- Networking.\n- Debates.",
+          "URL": "https://betabeers.com/community/betabeers-asturias-23/",
+          "image": {
+            "alt": "descarga.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/07/bf79c7da-faa1-48b8-9ebc-f873a91140c0_descarga.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2013-03-01",
+            "finishDate": "2014-04-01"
+          }
+        ]
+      }
+    ],
     "publicArtifacts": [
       {
         "details": {

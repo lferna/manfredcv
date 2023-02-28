@@ -9,7 +9,7 @@
       "name": "Luis",
       "surnames": "Fernandez",
       "title": "Tech Lead",
-      "description": "- Working as a Tech Lead in multiple clients with different technologies. Currently working with a Retail and Distribution spanish client.\n- Developing Spring Boot APIs that implement a distribution billing platform which serve hundreds of thousands of users, with response times in milliseconds and with special care for transactions.\n- Integrating new third-party APIs (from Whatsapp Business API to proprietary software) with our applications to be able to create more content and serve new customers.\nUsing Quarkus, a Knative Java stack, to save memory and shorten microservices startup times, saving costs and improving horizontal scalability, serving hundreds of requests per second in comparison with a Jboss legacy application without the ability to scale that only serves a few requests per second.\n- Developing Quarkus extensions for all the teams to use them.\n- 2.6.0 of Quarkus. Experience in developing Quarkus extensions.\n- English: Currently learning C1 (B2 Certification)",
+      "description": "",
       "avatar": {
         "alt": "foto_mia.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/05/27f52bdc-bbda-4d78-9a71-2b643219080d_foto_mia.jpg"
@@ -167,6 +167,9 @@
             "name": "Quarkus",
             "type": "technology"
           }
+        ],
+        "tags": [
+          ""
         ]
       },
       {
@@ -186,6 +189,9 @@
             "name": "Spring Boot",
             "type": "technology"
           }
+        ],
+        "tags": [
+          ""
         ]
       },
       {
@@ -205,6 +211,9 @@
             "name": "Spring Boot",
             "type": "technology"
           }
+        ],
+        "tags": [
+          ""
         ]
       }
     ]
@@ -249,6 +258,7 @@
         "finishDate": "2024-09-01",
         "institution": {
           "name": "Google Cloud",
+          "description": "",
           "URL": "https://www.credential.net/5baa1c7e-1ed1-4e8b-b0c4-46a5f685e05b",
           "image": {
             "alt": "google_cloud.png",
